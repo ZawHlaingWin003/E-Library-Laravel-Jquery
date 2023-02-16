@@ -1,0 +1,34 @@
+/* Textarea */
+
+/* textarea{
+    width: 100%;
+    resize: none;
+    height: 59px;
+    margin-top: 20px;
+    max-height: 330px;
+    caret-color: #4671EA;
+    font-weight: 800;
+}
+textarea::-webkit-scrollbar{
+    width: 0px;
+} */
+
+/* Preview Image */
+
+.img-preview {
+    width: 300px;
+    min-height: 100px;
+    border: 2px solid #dddddd;
+    margin-top: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: #cccccc;
+}
+.img-preview__image {
+    display: none;
+    width: 100%;
+    object-fit: cover;
+}

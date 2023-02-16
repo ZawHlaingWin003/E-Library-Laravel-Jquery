@@ -1,0 +1,28 @@
+{
+    "data" : [
+        {
+            "category": "Phone",
+            "count": "16"
+        },
+        {
+            "category": "Laptop",
+            "count": "18"
+        },
+        {
+            "category": "Watches",
+            "count": "22"
+        },
+        {
+            "category": "Tablet",
+            "count": "14"
+        },
+        {
+            "category": "Desktop",
+            "count": "8"
+        },
+        {
+            "category": "TV",
+            "count": "12"
+        }
+    ]
+}
